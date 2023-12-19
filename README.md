@@ -1,0 +1,2 @@
+# SpERT_RelationExaction
+基于SpERT联合式抽取模型实现的关系抽取
