@@ -39,4 +39,7 @@ python ./spert.py eval --config configs/example_eval.conf
 python ./spert.py predict --config configs/example_predict.conf
 ```
 
+其他数据集文件：
 
+链接：https://pan.baidu.com/s/1MkYYBi_GX_zKPU-gt3t7pQ?pwd=1472 
+提取码：1472
