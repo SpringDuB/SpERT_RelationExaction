@@ -43,3 +43,9 @@ python ./spert.py predict --config configs/example_predict.conf
 
 链接：https://pan.baidu.com/s/1MkYYBi_GX_zKPU-gt3t7pQ?pwd=1472 
 提取码：1472
+
+端口调用如下：
+
+返回实体和关系以及token字符串
+
+![image-20231220112309716](C:\Users\ZENG\AppData\Roaming\Typora\typora-user-images\image-20231220112309716.png)
