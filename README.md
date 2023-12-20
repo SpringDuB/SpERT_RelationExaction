@@ -44,8 +44,8 @@ python ./spert.py predict --config configs/example_predict.conf
 链接：https://pan.baidu.com/s/1MkYYBi_GX_zKPU-gt3t7pQ?pwd=1472 
 提取码：1472
 
-端口调用如下：
+端口调用如下：返回实体和关系以及token字符串
 
-返回实体和关系以及token字符串
-
-![image-20231220112309716](C:\Users\ZENG\AppData\Roaming\Typora\typora-user-images\image-20231220112309716.png)
+```
+[{"entities":[{"end":5,"start":1,"type":"图书作品"},{"end":11,"start":7,"type":"人物"}],"relations":[{"head":0,"tail":1,"type":"作者"}],"tokens":["《","邪","少","兵","王","》","是","冰","火","未","央","写","的","网","络","小","说","连","载","于","旗","峰","天","下"]}]
+```
